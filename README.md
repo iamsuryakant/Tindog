@@ -1,3 +1,1 @@
-# Tindog
-
-Introductory project using Bootstrap.
+TinDog Starting Files
